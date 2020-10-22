@@ -1,0 +1,8 @@
+name: WorldPropertiesBug
+main: xyz.ng7.worldpropertiesbug.WorldPropertiesBug
+version: 1.0.0-SNAPSHOT
+api-version: 1.16
+commands:
+  show:
+    description: Shows the Monster and Animal Spawn settings.
+    usage: /<command>
